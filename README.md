@@ -7,11 +7,11 @@ The RB1100AHx4 is based on the AL21400 SoC (Annapurna Labs Alpine, ARM Cortex-A1
 
 Current work includes:
 
-• Adding Alpine platform support to OpenWrt
-• Integrating the Alpine Ethernet MAC driver
-• Implementing MDIO GPIO support for switch communication
-• Creating the required Device Tree definitions for the RB1100AHx4
-• Preparing support for the RTL8367 switch
+- Adding Alpine platform support to OpenWrt
+- Integrating the Alpine Ethernet MAC driver
+- Implementing MDIO GPIO support for switch communication
+- Creating the required Device Tree definitions for the RB1100AHx4
+- Preparing support for the RTL8367 switch
 
 This effort is still a work in progress, but the objective is to get the device to boot OpenWrt and gradually bring up all hardware components.
 
