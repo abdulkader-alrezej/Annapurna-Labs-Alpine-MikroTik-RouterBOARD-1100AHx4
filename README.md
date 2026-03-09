@@ -6,6 +6,7 @@ I have started working on adding support for the Annapurna Labs Alpine platform 
 The RB1100AHx4 is based on the AL21400 SoC (Annapurna Labs Alpine, ARM Cortex-A15). The goal of this work is to enable a clean and maintainable OpenWrt port for this device.
 
 Current work includes:
+
 • Adding Alpine platform support to OpenWrt
 • Integrating the Alpine Ethernet MAC driver
 • Implementing MDIO GPIO support for switch communication
